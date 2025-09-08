@@ -34,11 +34,6 @@ This project implements a **two-player Tic-Tac-Toe game** where players take tur
 
 Clone the repository:
 
-```bash
-git clone https://github.com/your-username/Tic-Tac-Toe-Game.git
-cd Tic-Tac-Toe-Game
-```
-
 Compile the program:
 
 ```bash
